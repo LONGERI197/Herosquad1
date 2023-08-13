@@ -73,16 +73,11 @@ assertEquals(true, hero instanceof Hero);
 ### Technologies Used
 
 1. HTML
-2. CSS
-3. Handlebars
-4. Java
-5. Gradle
-6. Spark
-7. Junit
-
-### Live Site
-
-
+2. Handlebars
+3. Java
+4. Gradle
+5. Spark
+6. Junit
 
 ### License
 
